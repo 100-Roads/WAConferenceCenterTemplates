@@ -1034,23 +1034,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":96,
-                 "id":906,
-                 "name":"portal-to-start",
-                 "properties":[
-                        {
-                         "name":"exitUrl",
-                         "type":"string",
-                         "value":"\/@\/tcm\/workadventure\/wa-village"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":32,
-                 "x":320,
-                 "y":1920
-                }, 
-                {
                  "height":990.21795091814,
                  "id":907,
                  "name":"building2-focus",
