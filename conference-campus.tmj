@@ -2036,7 +2036,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"conference-campus-free.png"
+         "value":"conference-campus.png"
         }, 
         {
          "name":"mapName",
