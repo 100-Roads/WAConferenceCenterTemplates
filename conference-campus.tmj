@@ -2041,7 +2041,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Conference Campus Free"
+         "value":"Conference Campus"
         }, 
         {
          "name":"script",
